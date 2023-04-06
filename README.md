@@ -111,6 +111,10 @@
            y       1.00      0.60      0.75        10
            z       0.67      0.60      0.63        10
 
+<p align="center">
+    <img width="1496" src="https://user-images.githubusercontent.com/76530956/230264500-3d12a528-e7e7-4028-8965-d1625363c627.png">
+</p>
+
     accuracy                           0.78       682
    macro avg       0.81      0.79      0.78       682
 weighted avg       0.81      0.78      0.78       682
